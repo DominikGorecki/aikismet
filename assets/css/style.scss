@@ -3,8 +3,8 @@
 
 @import 'jekyll-theme-cayman';
 @import 'mixins';
-@import url(https://fonts.googleapis.com/css?family=Satisfy);
 @import url("https://fonts.googleapis.com/css?family=Lato:400,400i,700");
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
 
 
 .page-header {
@@ -25,7 +25,7 @@
     -webkit-background-clip: text;
     position: relative;
     text-align: center;
-    font-family: "Satisfy", cursive;
+    font-family: "Press Start 2P", cursive;
     font-size: 6em;
   }
 
