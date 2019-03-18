@@ -1,1 +1,1 @@
-# Practice Deep Learning Solutions
+# Practical Deep Learning Solutions
